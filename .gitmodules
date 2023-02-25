@@ -22,3 +22,6 @@
 [submodule "wordflower"]
 	path = wordflower
 	url = https://github.com/marcuswestin/wordflower.git
+[submodule "interviews"]
+	path = interviews
+	url = https://github.com/marcuswestin/interviews.git
