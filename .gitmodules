@@ -1,0 +1,24 @@
+[submodule "Pretty-Local"]
+	path = Pretty-Local
+	url = https://github.com/marcuswestin/Pretty-Local.git
+[submodule "dotfiles"]
+	path = dotfiles
+	url = https://github.com/marcuswestin/dotfiles.git
+[submodule "fun"]
+	path = fun
+	url = https://github.com/marcuswestin/fun.git
+[submodule "git-star"]
+	path = git-star
+	url = https://github.com/marcuswestin/git-star.git
+[submodule "machine"]
+	path = machine
+	url = https://github.com/marcuswestin/machine.git
+[submodule "tailwind"]
+	path = tailwind
+	url = https://github.com/marcuswestin/tailwind.git
+[submodule "ts-libs"]
+	path = ts-libs
+	url = https://github.com/marcuswestin/ts-libs.git
+[submodule "wordflower"]
+	path = wordflower
+	url = https://github.com/marcuswestin/wordflower.git
