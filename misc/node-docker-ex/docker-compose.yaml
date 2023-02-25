@@ -1,0 +1,7 @@
+version: "3.9"
+services:
+  test-mw2:
+    build: .
+    ports:
+      - "8001:7856"
+
