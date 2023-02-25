@@ -28,3 +28,15 @@
 [submodule "hugson-palleys"]
 	path = hugson-palleys
 	url = https://github.com/marcuswestin/hugson-palleys.git
+[submodule "misc/ts-project-boilerplate"]
+	path = misc/ts-project-boilerplate
+	url = https://github.com/marcuswestin/ts-project-boilerplate.git
+[submodule "misc/monorepo-merge"]
+	path = misc/monorepo-merge
+	url = https://github.com/marcuswestin/monorepo-merge.git
+[submodule "store.js"]
+	path = store.js
+	url = https://github.com/marcuswestin/store.js.git
+[submodule "WebViewJavascriptBridge"]
+	path = WebViewJavascriptBridge
+	url = https://github.com/marcuswestin/WebViewJavascriptBridge.git
