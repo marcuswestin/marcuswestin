@@ -25,3 +25,6 @@
 [submodule "interviews"]
 	path = interviews
 	url = https://github.com/marcuswestin/interviews.git
+[submodule "hugson-palleys"]
+	path = hugson-palleys
+	url = https://github.com/marcuswestin/hugson-palleys.git
